@@ -1,0 +1,38 @@
+.chessboard{
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+   height: 600px;
+   width: 600px;
+ background-color: #202020;
+ background-color: red;
+ 
+}
+.tile {
+ width: 75px;
+ height: 75px;
+}
+.blacktile {
+    background-color: black;
+}
+.whitetile {
+    background-color: white;
+}
+.redtile {
+    background-color:  red;
+}
+.greentile{ 
+    background-color: green;
+}
+/* .block {
+      display: flex;
+      width: 50px;
+      height: 50px;
+      background-color: black;
+}
+.block1 {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+} */

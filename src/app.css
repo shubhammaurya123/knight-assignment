@@ -1,0 +1,10 @@
+.app{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+   place-content: center;
+  
+   
+
+}
